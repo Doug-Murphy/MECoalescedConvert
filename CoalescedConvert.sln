@@ -14,7 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionIt
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitHubActions", "GitHubActions", "{EF44C70C-02F0-47FC-B2A5-9536D071A73D}"
 	ProjectSection(SolutionItems) = preProject
-		.github\workflows\publish-self-contained.yml = .github\workflows\publish-self-contained.yml
+		.github\workflows\release.yml = .github\workflows\release.yml
 	EndProjectSection
 EndProject
 Global

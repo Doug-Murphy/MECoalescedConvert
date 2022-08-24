@@ -1,4 +1,4 @@
-name: "Create release"
+name: "Create release with published assets"
 
 on:
   workflow_dispatch:
